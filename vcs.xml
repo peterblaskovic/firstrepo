@@ -6,8 +6,13 @@
           <option name="url" value="http://zse-energia.sk@jira.zsee.sk" />
           <option name="userName" value="peter.blaskovic" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://peter.blaskovic%40zse-energia.sk@jira.zsee.sk/bitbucket/scm/aston/zsezz_ods.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\P100058\IdeaProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
